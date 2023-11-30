@@ -1,4 +1,10 @@
 baseURL = 'https://Axel887.github.io/hetic-hugo'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+languageCode = 'fr-fr'
+title = 'Mon blog perso'
 theme = 'ananke'
+
+[params]                        
+description = 'Un blog sur lequel je parle de tout et de rien'
+
+#paramètres du thème
+shohReadingtime = true
