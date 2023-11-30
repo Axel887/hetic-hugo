@@ -5,9 +5,9 @@ theme = 'ananke'
 
 [params]                        
 description = 'Un blog sur lequel je parle de tout et de rien'
-favicon = "/Hetic-Hugo/static/img/alpi.png"
-bg_image = "/Hetic-Hugo/static/img/Kili.jpg"
-sub = 'Un blog qui parle de tout et de rien'
+site_logo = "/Hetic-Hugo/static/img/alpi.png"
+text_color = "green"
+
 
 
 
