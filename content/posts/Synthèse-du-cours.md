@@ -1,6 +1,6 @@
 +++
-title = 'Resumé Du Cours'
-date = 2023-11-30T23:48:57+01:00
+title = 'Synthèse Du Cours'
+date = 2023-12-01T00:08:52+01:00
 draft = false
 +++
 
@@ -28,7 +28,4 @@ Facilité d'Utilisation :
 - Hugo se veut simple à utiliser. Il utilise une structure de fichiers simple, avec des contenus écrits en Markdown, facilitant ainsi la gestion du contenu du site.
 
 - Hugo prend en charge les thèmes, ce qui signifie que vous pouvez utiliser un thème prédéfini pour donner à votre site un aspect visuel professionnel sans avoir à concevoir tout depuis zéro.
-
-
-
 
