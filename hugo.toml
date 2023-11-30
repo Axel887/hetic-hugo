@@ -1,10 +1,16 @@
 baseURL = 'https://Axel887.github.io/hetic-hugo'
 languageCode = 'fr-fr'
-title = 'Mon blog perso'
+title = 'MON BLOG PERSO'
 theme = 'ananke'
 
 [params]                        
 description = 'Un blog sur lequel je parle de tout et de rien'
+favicon = "/Hetic-Hugo/static/img/alpi.png"
+bg_image = "/Hetic-Hugo/static/img/Kili.jpg"
+sub = 'Un blog qui parle de tout et de rien'
+
+
+
 
 #paramètres du thème
-shohReadingtime = true
+showReadingtime = true
